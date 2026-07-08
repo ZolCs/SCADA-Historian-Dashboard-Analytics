@@ -34,7 +34,7 @@ Current Features
 •	Alarm markers 
 •	Last refresh information 
 
--Technologies:
+-Technologies: 
 
 •	Python 
 •	Pandas 
