@@ -7,21 +7,21 @@ Power BI Dashboards:
 
 Current Features 
 
-Data generation
+-Data generation:
 
 •	Python based process simulation 
 •	Temperature and pressure generation 
 •	Engineering alarm generation 
 •	Statistical alarm generation 
 
-Database
+-Database:
 
 •	SQLite Historian 
 •	Three-table relational structure 
 •	Process data storage 
 •	Alarm history storage 
 
-Dashboard
+-Dashboard:
 
 •	Power BI visualization 
 •	Engineering Alerts page 
@@ -34,7 +34,7 @@ Dashboard
 •	Alarm markers 
 •	Last refresh information 
 
-Technologies
+-Technologies:
 
 •	Python 
 •	Pandas 
@@ -44,7 +44,7 @@ Technologies
 •	Power BI 
 •	DAX 
 
-Planned Features
+-Planned Features:
 
 •	Raspberry Pi integration 
 •	Real-time data acquisition 
